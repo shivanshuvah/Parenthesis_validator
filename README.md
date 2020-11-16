@@ -4,6 +4,7 @@ Python script that parses an input expression/string and validates the parenthes
 ### Sample Input and Output  
 
 Input #1 --> F (2) = a[x] + {2 + 3}  
+
 Output --> True  
 
 Input #2 --> (A +
@@ -15,4 +16,5 @@ Input #3 -->{( a + b } )
 Output --> False  
 
 Input #4 --> a + b ]
+
 Output --> False
