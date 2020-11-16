@@ -1,10 +1,3 @@
-#F (2) = a[x] + {2 + 3}
-#true
-#(A +
-##false
-#{( a + b } )
-#false
-
 #parse the string for brackets 
 #implement stack in list
 #append for open parenthesis
