@@ -4,10 +4,13 @@ Python script that parses an input expression/string and validates the parenthes
 ### Sample Input and Output  
 
 Input #1 --> F (2) = a[x] + {2 + 3}  
-Output --> True
+Output --> True  
+
 Input #2 --> (A +
-Output --> False
+Output --> False  
+
 Input #3 -->{( a + b } )
-Output --> False
+Output --> False  
+
 Input #4 --> a + b ]
 Output --> False
